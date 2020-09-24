@@ -6,7 +6,7 @@ The `Lights` and `Meshes` directories contain data which are shared amongst all 
 For an actual installation, place the contents as follows (putting the `.lmapX` files directly in the `Lightmaps` location, not in a subdirectory):
 
 macOS:
-- `Lightmaps`: `~/Library/caches/D2X-XL/Lightmaps`
+- `Lightmaps`: `~/Library/Caches/D2X-XL/Lightmaps`
 - `Lights`: `~/Library/Caches/D2X-XL/Lights`
 - `Meshes`: `~/Library/Caches/D2X-XL/Meshes`
 
